@@ -16,13 +16,20 @@ Table of Contents
 - Contributing
 - Acknowledgments
 
-## Features
-- Resume Conversion: Convert your PDF resume into Markdown and optimize it for ATS compliance using LLM-based processing.
-- Job Scraping: Scrape job listings from LinkedIn based on customizable job titles and locations using Playwright.
-- Job Matching & Analysis: Analyze and match your resume against job descriptions to generate a match score, statistical insights, and actionable recommendations.
-- Asynchronous Job Page Scraping: Extract detailed job information (title, company, location, description, etc.) from individual job pages asynchronously.
-- CSV Reporting & Email Notifications: Save job data and analysis results to CSV files, compress them into a ZIP archive, and automatically email the archive.
-- Rich Command Line Interface: Enjoy a visually enhanced CLI experience with progress bars, tables, and panels provided by the Rich library.
+### Features
+ 
+- **Resume Conversion**    Transform your PDF resume into Markdown and enhance it for ATS compliance using LLM-based processing.
+
+- **Job Scraping**  Effortlessly scrape job listings from LinkedIn using Playwright with customizable filters for job titles and locations.
+
+- **Job Matching & Analysis**  Compare your resume against job descriptions to generate a match score, along with statistical insights and actionable recommendations.
+
+- **Asynchronous Job Page Scraping**  Extract comprehensive job details (title, company, location, description, etc.) from individual job pages asynchronously.
+
+- **CSV Reporting & Email Notifications**  Automatically save job data and analysis results to CSV files, compress them into a ZIP archive, and email the archive for easy sharing.
+
+- **Rich Command Line Interface**  Experience an enhanced CLI with progress bars, tables, and panels provided by the Rich library for a visually appealing workflow.
+
 
 ## Prerequisites
 Before using the tool, ensure you have:
