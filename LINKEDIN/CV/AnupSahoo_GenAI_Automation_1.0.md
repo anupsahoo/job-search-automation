@@ -1,75 +1,96 @@
-## Anup Sahoo
-Bangalore, India | +91 7259906883 | sahooanuptech@gmail.com | https://www.linkedin.com/in/sahooanup | https://github.com/anupsahoo
+ **Note:** The following information includes dummy company names and dates, used only for resume structure and formatting reference.
 
-### Professional Summary
+---
 
-Cloud Technical Lead with over 12 years of experience in QA automation. Demonstrated expertise in Generative AI, DevOps, and cloud services. Proven ability to lead teams, implement best practices, and optimize automation processes.
+# **QA Automation Lead | AI-Driven Testing Expert**
 
-### Core Competencies
+ISTQB-certified QA Automation Lead with 12+ years of experience in designing and implementing scalable, AI-powered automation frameworks. Specialized in Cypress, Selenium, Playwright, and Python with strong exposure to CI/CD, DevOps pipelines, and cloud-based testing. Proven ability to drive 80%+ automation coverage, reduce defect leakage, and improve delivery velocity. Adept in architecting self-healing frameworks, leading cross-functional QA teams, and integrating AI/ML for intelligent test execution.
 
-- Automation & Testing: Selenium, Cypress, Playwright, Appium, jmeter, Applitools
-- Programming Languages & Libraries: Typescript, Python, Java, Groovy, REST API, JSON, HTML, React, Pytest
-- DevOps Tools: Jenkins, Docker, Ansible, Terraform, Groovy, Kubernetes, Azure DevOps, Nagios, ELK Stack, jfrog Artifactory, Browser stack
-- GenAI & Data Engineering Tools: LLMs, Hugging Face Transformers, Open AI API, PySpark, Apache Hudi in S3, Athena, Glue, EMR, Step Functions
-- AWS Cloud Services: Lambda, Cloud Watch, Event Bridge, SQS, SNS, Dynamo DB, Redshift, App Flow, AWS CLI, AWS DMS
 
-### Professional Experience
 
-**Cloud Technical Lead**, Insight Direct India Pvt. Ltd., Bangalore, India
-Dec 2021 - Present
+---
 
-- Led Generative AI proof-of-concepts (PoCs) to enhance QA and automation frameworks, leveraging LLMs for test case generation, debugging, and predictive analytics.
-- Developed and deployed a powerful automated testing framework using Cypress, Python, Postman, REST API, Selenium, and Azure DevOps.
-- Reduced test script failures across modules, reducing post-release defects by 20%.
-- Built a CI/CD pipeline that cut the release cycle from 90 days to 30 days.
-- Expanded test automation coverage by 75% using Applitools and YAML, significantly lowering defect leakage risks in production.
-- Championed industry best practices for automated code reviews, reducing test script failures by 30%.
-- Developed a tool for static code analysis, runtime monitoring, test failure tracking, and sequential execution, enhancing code quality.
-- Shared automation best practices to improve ROI and foster a culture of continuous improvement.
-- Co-authored a research paper on using Machine Learning and LLMs for generating and debugging test cases.
-- Reduced manual work by 80% by automating test environment configuration, earning recognition from the customer and senior director.
-- Cut onboarding time for new team members from 60 days to 15 days by developing a conversational chatbot.
+## **Skills**
 
-**Senior QA Lead**, Test Yantra Software Solutions Private Limited, Bangalore, India
-Oct 2016 - Dec 2021
+- **Automation Tools:** Cypress, Selenium, Playwright, Appium, JMeter, Applitools  
+- **Programming Languages:** Python, TypeScript, Java, Groovy, REST API, JSON  
+- **Test Frameworks:** POM, BDD, TDD, Keyword, Data-Driven  
+- **DevOps & CI/CD Tools:** Jenkins, Azure DevOps, Docker, Ansible, Kubernetes, GitHub Actions  
+- **Monitoring & Reporting:** ELK Stack, Kibana, Grafana, TestRail, Allure, HTML Reports  
+- **Cloud & Infrastructure:** Azure, Browser Stack, Terraform, Postman, JIRA, VS Code  
+- **AI/ML Integration:** LangChain, OpenAI, Gemini, Conversational Bots  
+- **Certifications:** ISTQB Certified, Certified Scrum Master  
 
-- Designed test plans, scenarios, and scripts for Sony PS4 and PS5 using Python, WebDriverIO, Jmeter, Jenkins, Ansible, Selenium, Appium, and REST Assured.
-- Managed and debugged test scripts, ensuring continuous monitoring and maintaining health for automation suites.
-- Improved code quality and resolved regression issues, stabilizing the test suite by up to 73%.
-- Optimized release processes by orchestrating CI/CD pipeline sequences based on automated decision-making.
-- Created proactive monitoring dashboards with Kibana/Grafana for component health checks, enabling early issue detection in QA builds.
-- Ran parallel automated tests with Selenium and Jmeter DSL to analyze user experience, including load and performance metrics.
-- Explored commonly used metrics like code coverage and defect leakage to identify issues and introduced additional metrics for understanding and shared best practices for maximizing automation ROI.
-- Mentored over 35+ teammates in transitioning to automation, resulting in a 30% reduction in effort.
-- Actively involved in sharing knowledge and expertise through blog, tutorials, and conference presentations, reflecting a commitment to continuous learning and professional development.
-- Established key metrics like code coverage and defect leakage, introducing additional metrics to improve QA insights and maximize automation ROI.
-- Mentored 35+ teammates in automation, achieving a 30% reduction in manual effort and promoting automation best practices.
-- Contributed expertise through blogs, tutorials, and internal presentations, reflecting dedication to learning and sharing knowledge.
+---
 
-**Senior Test Engineer**, Test Yantra Software Solutions Private Limited, Bangalore, India
-April 2014 - Sep 2016
+## **Experience**
 
-- Developed and maintained 4500+ automated test scripts using Python, Selenium, Appium, and Jenkins.
-- Built release-based pipelines using DevOps tools to streamline and optimize release workflows.
-- Solved instability issues by integrating a proxy solution to capture frontend and backend interactions.
-- Integrated API tests to validate backend functionality comprehensively.
-- Developed a tool to store historical execution data in a database, reducing decision-making time by 20+ hours.
-- Created a code and test failure monitoring bot to address issues during critical release periods.
-- Enhanced test coverage by adding attributes like priority, severity, and flow, improving detail and granularity.
-- Achieved 30% more automation in less time by automating code reviews and test failure analysis.
-- Implemented ML techniques to automate failed test triaging, cutting team effort and speeding up decisions.
+### **QA Lead**  
+**TechNova Solutions Pvt Ltd** – Mumbai, India  
+**Jan 2022 – Present**
 
-### Education
+- Architected and implemented an AI-enhanced Selenium test automation framework using Python, integrated with LangChain, OpenAI, and Gemini LLMs for dynamic test case generation.  
+- Introduced agentic execution workflows that enabled full test runs from navigation to validation, including handling pop-ups and dynamic modals.  
+- Developed self-healing locator logic capable of automatically switching strategies when primary locators fail, reducing flaky test failures by 70%.  
+- Integrated detailed logging and failure detection modules with screenshot capture, execution time tracking, and HTML reporting.  
+- Built modular framework architecture inspired by GitHub CLI style, with CI/CD integration and support for API/mobile testing.  
+- Enabled screen recording during test execution for demo and debugging.  
+- Delivered POC for real-time prompt-based test case generation.  
+- Achieved 85% automation coverage and 65% regression time reduction.  
+- Mentored team on AI-infused testing and LLM adoption.
 
-- Master of Science (DevOps Specialization), Liverpool John Moores University, UK (Current, Sep 2021 - Mar 2024)
-- Bachelor of Computer Application, Anna University, Chennai, India (Jun 2007 - Mar 2010)
+**Key Achievements:**
 
-### Certifications
+- Developed & deployed LLM-powered Selenium framework using LangChain, Gemini, and OpenAI.  
+- Delivered AI test POC with agentic execution and dynamic reporting.  
+- Standardized QA processes across 19 global teams.  
+- Future-proofed QA operations through AI integration.
 
-- ISTQB Certified
-- Certified Scum Master
+---
 
-### Additional Skills
+### **Senior QA Lead**  
+**InnoCore Tech Services** – Bangalore, India  
+**May 2014 – Dec 2021**
 
-- Language: English (Fluent)
-- Organizational Skills: Established rapport and trust across diverse teams, facilitating communication and problem-solving. Led initiatives to navigate cross-cultural sensitivities and promoting cultural awareness.
+- Built test frameworks using Selenium, Appium, WebDriverIO, JMeter, and REST Assured for gaming platforms.  
+- Created 4500+ test cases covering regression, UAT, and API tests.  
+- Stabilized flaky suites by 73% through smart waits and tagging.  
+- Led CI/CD integration with Jenkins, Docker, and Ansible.  
+- Built dashboards in Grafana/Kibana for live test monitoring.  
+- Mentored 50+ QA engineers, improving manual to automation transition.  
+- Developed chatbot to analyze test failures, fetch logs, and show historical trends instantly.
+
+**Key Achievements:**
+
+- Achieved 73% regression stability on core test suite.  
+- Saved 20+ man hours/week using automated API validation and alert bots.  
+- Led AI+QA initiatives for proactive defect prediction.  
+- Aligned QA strategy with business and development goals.
+
+---
+
+### **Technical Consultant**  
+**CodeBridge Systems Ltd.** – Bhubaneswar, India  
+**Jan 2011 – April 2014**
+
+- Developed Selenium and Appium-based test frameworks for web and mobile apps.  
+- Handled full-stack automation for healthcare and e-commerce platforms.  
+- Delivered manual and automated testing for high-scale government applications.  
+- Collaborated with DevOps for streamlined QA deployments.  
+- Recognized by clients for minimizing defect leakage and enhancing test effectiveness.
+
+---
+
+## **Education**  
+*Note: Dummy education details below for format reference only*
+
+**Master’s in Software Engineering**  
+Global Tech University – London, UK  
+*Jan 2020 – Jan 2022*
+
+**Bachelor’s in Information Technology**  
+Digital Institute of Technology – Pune, India  
+*Aug 2007 – May 2010*
+
+
+
