@@ -1,5 +1,6 @@
 ```markdown
-### Job Search Automation Tool
+
+## Job Search Automation Tool
 
 ## Overview
 
