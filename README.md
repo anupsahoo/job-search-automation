@@ -114,6 +114,3 @@ Contributions are welcome! Fork the repository and submit a pull request with yo
 - GeminiLLM and other open-source tools that have made this project possible.
 
 
-
-If you need a more styled plain-text version, you can adjust the formatting (such as using underlines for headings).
->>>>>>> 76d589d8c2aaec0b0badbfd43e5f40cc96799411
